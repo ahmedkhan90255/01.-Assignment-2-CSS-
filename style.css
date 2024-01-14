@@ -1,0 +1,29 @@
+* {
+  background-color: lightblue;
+  font-family: sans-serif;
+}
+ul {
+  font-size: 20px;
+}
+p {
+  font-size: 20px;
+}
+
+.Note {
+  font-size: 25px;
+}
+span {
+  color: red;
+  background-color: black;
+  text-decoration: underline;
+}
+.para {
+  color: blue;
+  background-color: whitesmoke;
+  font-size: 25px;
+  font-weight: bold;
+}
+ul > li > a {
+  color: greenyellow;
+  font-weight: bolder;
+}
